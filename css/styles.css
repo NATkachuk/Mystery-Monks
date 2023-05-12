@@ -475,15 +475,15 @@ body {
     display: flex;
     flex-direction: row;
 }
+.section3-container2 {
+    display: flex;
+    flex-direction: row;
+}
 .section3-container3 {
     display: flex;
     flex-direction: row;
 }
 .section3-container4 {
-    display: flex;
-    flex-direction: row;
-}
-.section3-container5 {
     display: flex;
     flex-direction: row;
 }
@@ -587,4 +587,190 @@ body {
     line-height: 19px;
     color: #FFFFFF;
 }
+.section3-btn {
+    padding-top: 10px;
+    padding-left: 43px;
+    margin-left: 630px;
+    margin-top: 60px;
+    box-sizing: border-box;
+    width: 175px;
+    height: 44px;
+    background: #FFFFFF;
+    border: 1px solid #EF5537;
+    border-radius: 200px;
+}
+.section3-btn-text {
+    width: 90px;
+    height: 23px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    color: #EF5537;
+    text-decoration: none;
+}
+.section4 {
+    margin-top: 64px;
+}
+.section4-title {
+    margin-top: 18px;
+    margin-left: 618px;
+    width: 204px;
+    height: 63px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 46px;
+    line-height: 63px;
+    color: #EF5537;
+}
+.section4-text {
+    margin-left: 449px;
+    margin-top: -20px;
+    width: 543px;
+    height: 44px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 44px; 
+    color: #54387F;
+}
+.section4-container {
+    display: flex;
+    flex-direction: row;
+    gap: 214px;
+}
+.section4-container-box1 {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 23px;
+}
+.section4-container-box2 {
+    display: flex;
+    flex-direction: column;
+}
+.section4-container-box3 {
+    display: flex;
+    flex-direction: column;
+}
+.section4-container-box4 {
+    display: flex;
+    flex-direction: column;
+}
+.section4-container-box1-text1 {
+    width: 185px;
+    height: 109px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 109px;
+    color: #54387F;
+}
+.section4-container-box1-text2 {
+    margin-top: -45px;
+    margin-left: 44px;
+    width: 137px;
+    height: 24px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #2A2A2A;
+}
+.section4-container-box1-text3 {
+    width: 226px;
+    height: 150px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    color: #6A6A6A;
+}
+.section4-container-box2-text1 {
+    width: 93px;
+    height: 109px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 109px;
+    color: #54387F;
+}
 
+.section4-container-box2-text2 {
+    width: 400px;
+    height: 70px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #2A2A2A;
+}
+.section4-container-box2-text3 {
+    width: 226px;
+    height: 125px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    color: #6A6A6A;
+}
+.section4-container-box3-text1 {
+    width: 185px;
+    height: 109px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 109px;
+    color: #54387F;
+}
+.section4-container-box3-text2 {
+    margin-top: -45px;
+    margin-left: 44px;
+    width: 137px;
+    height: 24px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #2A2A2A;
+}
+.section4-container-box4-text1 {
+    width: 185px;
+    height: 109px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 109px;
+    color: #54387F;
+}
+.section4-container-box4-text2 {
+    width: 169px;
+    height: 24px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #2A2A2A;
+}
+.section4-container-box4-text3 {
+    width: 226px;
+    height: 100px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    color: #6A6A6A;
+}
